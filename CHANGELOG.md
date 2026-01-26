@@ -1,7 +1,10 @@
 # Changelog
 
 ## [Unreleased]
-- DEV: Change PLUGIN to _PLUGIN
+
+## [1.0.3] - 2026-01-26
+
+- DEV: Change PLUGIN to \_PLUGIN
 
 ## [1.0.2] - 2025-11-09
 
@@ -34,7 +37,8 @@ Refactor code to work differently, increasing the amount the keepsake increments
 
 Added functionalitty to reduce amount of chambers needed to level up keepsake
 
-[unreleased]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/1.0.2...HEAD
+[unreleased]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/1.0.3...HEAD
+[1.0.3]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/excellent-ae/zannc-KeepsakeChambers/compare/0.0.4...1.0.0
